@@ -1,0 +1,11 @@
+/home/rafaelgarrui/Desktop/tutorials/rustlings/target/debug/deps/assert_cmd-67d615d19f896e88.rmeta: /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/lib.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/assert.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cargo.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cmd.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/stdin.rs
+
+/home/rafaelgarrui/Desktop/tutorials/rustlings/target/debug/deps/libassert_cmd-67d615d19f896e88.rlib: /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/lib.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/assert.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cargo.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cmd.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/stdin.rs
+
+/home/rafaelgarrui/Desktop/tutorials/rustlings/target/debug/deps/assert_cmd-67d615d19f896e88.d: /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/lib.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/assert.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cargo.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cmd.rs /home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/stdin.rs
+
+/home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/lib.rs:
+/home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/assert.rs:
+/home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cargo.rs:
+/home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/cmd.rs:
+/home/rafaelgarrui/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-0.11.1/src/stdin.rs:
